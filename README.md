@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align-"center">Hi there, i am Praveen Bhotla👋</h1>
+- 🌱 I’m currently learning <strong>java & Kotlin</strong>
+- 💬 Ask me about <strong>c Programming, python, java & Kotlin</strong>
+- 📫 How to reach me: <a href-"www.linkedin.com/in/praveen-kumar-bhotla-3025aa238d" target-"_blank">Praveen Bhotla"</a>
+
+
+
+
+
+
+
